@@ -5,4 +5,6 @@ Hello World!!
 
 this is just a test to see if im doing this right? lets hope so
 
-test number 2 git module
+test number 2 git module 
+
+test number 3 gitGUI
